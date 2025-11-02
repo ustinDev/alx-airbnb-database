@@ -46,3 +46,7 @@ The schema adheres to **Third Normal Form (3NF)**:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ustinDev/alx-airbnb-database.git
+
+2. cd alx-airbnb-database/database-script-0x01
+3. psql -U <ustinDev_username> -d <ustinDev_database_name> -f schema.sql
+
